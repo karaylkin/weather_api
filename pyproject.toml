@@ -1,0 +1,16 @@
+[project]
+name = "weather_api52"
+version = "0.1.0"
+description = "A Python package for fetching weather data using OpenWeather API."
+readme = {file = "README.md", content-type = "text/markdown"}
+license = {text = "MIT"}
+authors = [
+    {name = "Karaylkin", email = "radmir-lbragimov@mail.ru"}
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+dependencies = ["requests"]
+requires-python = ">=3.6"

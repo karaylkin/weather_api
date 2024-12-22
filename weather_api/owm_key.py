@@ -1,0 +1,1 @@
+owm_api_key = '6c1d889aaf151880d51264b730e1e3eb'
