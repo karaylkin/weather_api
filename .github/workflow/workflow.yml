@@ -1,4 +1,4 @@
-name: Publish Python Package
+name: weather52
 
 on:
   push:
