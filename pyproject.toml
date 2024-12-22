@@ -16,5 +16,6 @@ dependencies = ["requests"]
 requires-python = ">=3.6"
 
 urls = {
-    "Homepage" = "https://github.com/karaylkin/weather_api"
-    }
+    Homepage = "https://github.com/karaylkin/weather_api"
+}
+
